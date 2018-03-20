@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: events-acl-api
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: pongsoon
+Implementation-Vendor-Id: org.acmepong
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/events-acl-api/
+Created-By: Maven Integration for Eclipse
+
